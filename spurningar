@@ -24,3 +24,16 @@
  6. efa þú vilt endurnota gameobject en stillt og einhvern spes hátt t.d sem npc eða prob en þú vilt hafa það á marga staði í scene
  eða öll scenes þá vilty converta það í prefab, það er betra en að copya pg paste gameobjects prefab automatically geymir öll copies í sync
  
+ 7.A mesh consists of triangles arranged in 3D space to create the impression of a solid object
+ 
+ 8. tags are marker values that that you can use to identify objects in your Project
+ layers are what you use throughout the Unity Editor as a way to create groups of objects that share particular characteristics
+ 
+ 9. Scene view = er það sem við vinnum með gameobjects meðal annars models, lights og colliders til að búa til scenes
+ Game view = er þar sem við sjáum leikinn okkar í gegnun myndavélarnar sem við erum búinn að setja up
+ Project = er unity pojectið sem við geymun leikinn og allt það sem við gerum í því
+ Hierarchy = geymir listan af öllum gameobjects 
+ Inspector = displays detailed information about the currently selected GameObject
+
+
+ 
