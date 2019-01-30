@@ -33,7 +33,7 @@
  Game view = er þar sem við sjáum leikinn okkar í gegnun myndavélarnar sem við erum búinn að setja up
  Project = er unity pojectið sem við geymun leikinn og allt það sem við gerum í því
  Hierarchy = geymir listan af öllum gameobjects 
- Inspector = displays detailed information about the currently selected GameObject
+ Inspector = displays detailed information about the currently selected GameObject 
 
 
  
