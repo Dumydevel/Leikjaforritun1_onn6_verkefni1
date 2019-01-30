@@ -1,1 +1,26 @@
-
+ 1.gameloop er aðal er eitt af aðal kóðun í leikjum og er skift í 3 parta initialize update og draw
+ initialize er notað til að gera game setup og undirbýr environment fyrir update og draw stigin
+ update undirbýr öll objects til að teikna, hérna kemur physical code cordinate updates health points changes og margt meira hæerna
+ verður líka inputið processesd 
+ þegar allt er updated og tilbúið þá förum við í draw þarsem allar upplýsingar eru settar á skjáinn t.d kóðin layer og hud
+ 
+ 2. Game engine er software development environment og er notað fyrir fólk til að búa till tölvuleiki og fleira t.d fyir consoles,
+ síma og pc það sem felst inni Game engine er rendering engine fyrir 2D og 3D grahics, physics engine, sound, scripting, animation,
+ AI, memory management, threading, localization support, scene graph,
+ munurin á milli unity og unreal engine
+ unity notar mesta lagi C# en unreal notar C++ en þú getar samt notað bæði
+ unity er meira fyrir one man dev en unreal fyrir heilt lið
+ unreal er betar fyrir consoles en unity er betra fyrir mobile
+ 
+ 3.
+ 
+ 
+ 
+ 4.Assets er  file í disk sem er geymt í assets folder í unity project, assets er t.d textures, 3D models, eða audio clips
+ 
+ 5.allir hlutir í leiknum eru GameObjects, GameObject er container þú addar hluti í gameobject til að búa til kall, ljós, tré eða hljóð
+ og allir hlutir sem þú addar eru components 
+ 
+ 6. efa þú vilt endurnota gameobject en stillt og einhvern spes hátt t.d sem npc eða prob en þú vilt hafa það á marga staði í scene
+ eða öll scenes þá vilty converta það í prefab, það er betra en að copya pg paste gameobjects prefab automatically geymir öll copies í sync
+ 
